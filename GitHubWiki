@@ -1,0 +1,13 @@
+What is Github? 
+It is a platform that helps people solve problems by building software together.
+Git installation:
+Now we need to install Git's tools on our computer. We'll use CLI to communicate with GitHub.
+For Ubuntu ===>
+1. Update your packages using " sudo apt update ". 
+2. Next, install Git and GitHuB with apt-get by using command; sudo apt-get install git 
+3. Then, varify that your Git were install correctly using this command; git --version
+4. Lastly, run the following commands with your information to set a default username and email when you're going to save your work.
+- git config --global user.name "iqmalhaziq"
+- git config --global user.email "harith@mail.com"
+
+Next, we will go into detail on how to use master Git & GitHub with better explaination in order to guide beginner into understanding how to work with GitHub projects.
